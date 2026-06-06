@@ -1,46 +1,143 @@
-- 👋 Hi, I’m @kumarideas2025
-- 👀 I’m interested in ...build code eassy way 
-- 🌱 I’m currently learning ...DSA with c++.
-  
-  
-I’m a passionate Data Scientist, skilled at turning raw data into actionable insights. My expertise lies in Python, machine learning, and making data beautiful with visualization tools like Matplotlib and Seaborn. I love working with Numpy and Pandas to wrangle and analyze data.
+ 
+ # 👋 Hi, I'm Kowshik Sarker
 
-- 🌟 Always curious to learn more in the world of data science and AI.
-- 🚀 I enjoy building impactful projects, especially in real-world 
-
-- Languages:Python
-- Libraries:Numpy, Pandas, Matplotlib, Seaborn
-- Tech: Machine Learning, Data Visualization
+### 🎓 Computer Science Student | 💻 Full Stack Developer | 📊 Data Science Enthusiast
 
 ---
 
- 🚩 Featured Project
+## 🚀 About Me
 
-#### [Restaurant Order Management System](#)
-A practical project streamlining restaurant operations, leveraging data-driven insights.
+I'm a passionate Computer Science student who enjoys building real-world applications, solving problems, and continuously learning new technologies.
 
----
-
-### 🌱 Currently Exploring
-
-- Advanced machine learning algorithms
-- Interactive data visualization
-- Real-world AI applications
+- 🎓 Computer Science Student  
+- 💻 Interested in Full Stack Web Development & Software Engineering  
+- 🌱 Currently exploring Backend Development, System Design & Cloud  
+- 🧠 Strong focus on Data Structures & Algorithms  
+- 🚀 Love building practical projects  
+- 🎯 Goal: Become a Professional Software Engineer  
 
 ---
 
-### 📫 Let’s Connect!
+## 💻 Tech Stack
 
-- [LinkedIn](http://linkedin.com/in/kowshik-sarker-b4b161334)
-- [Instagram](https://instagram.com/kowshik___sarkerrrrr?igsh=Z3ZnNnhkOXNxaGcz&utm_source=qr)
+### 👨‍💻 Programming Languages
+- Java  
+- JavaScript (ES6+)  
+- Python  
+- C++  
+- SQL  
+- Bash (Shell Scripting)  
 
 ---
 
-> “Data is the new oil.” ⛽  
-Always open to collaboration and new ideas!
+### 🌐 Frontend
+- HTML5  
+- CSS3  
+- JavaScript  
+- React.js  
 
+---
 
-<!---
-kumarideas2025/kumarideas2025 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### ⚙️ Backend
+- Node.js  
+- Bun  
+- Express.js  
+- REST APIs  
+- JSON  
+- npm & Bun Package Manager  
+- Postman  
+
+---
+
+### 🗄️ Database
+- PostgreSQL  
+- SQL  
+- DBMS  
+
+---
+
+### 📊 Data Science & AI
+- NumPy  
+- Pandas  
+- Matplotlib  
+- OpenCV  
+
+---
+
+### 🖥️ Operating Systems
+- Linux (Ubuntu)  
+- Windows  
+- Windows Subsystem for Linux (WSL)  
+
+---
+
+### 🌐 Networking
+- Computer Networks  
+- Cisco Packet Tracer  
+
+---
+
+### 📚 CS Fundamentals
+- Data Structures & Algorithms  
+- Operating Systems  
+- Database Management Systems  
+- Computer Networks  
+
+---
+
+### 🛠️ Tools
+- Git  
+- GitHub  
+- VS Code  
+- Postman  
+- Microsoft Excel  
+
+---
+
+## 📈 Currently Learning
+- MongoDB  
+- System Design  
+- Docker  
+- Cloud (AWS)  
+- Advanced Backend Development  
+
+---
+
+## 🚀 Projects
+
+- REST API using Node.js & Express.js  
+- Full Stack Web Applications (MERN)  
+- Java Projects  
+- PostgreSQL Database Projects  
+- Python Data Analysis Projects  
+- Shell Scripting Automation  
+- Linux Practice Repository  
+- DSA Practice Repository  
+
+---
+
+## 🎯 2026 Goals
+
+- 🔥 Master Full Stack Development  
+- 🔥 Solve 100+ DSA Problems  
+- 🔥 Learn System Design  
+- 🔥 Learn Cloud & Docker  
+- 🔥 Build Production-Level Projects  
+- 🔥 Contribute to Open Source  
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: https://linkedin.com/in/kowshik-sarker-b4b161334  
+- 📷 Instagram: @kowshik___sarkerrrrr  
+
+---
+
+## 💬 Quote
+
+> "Code. Learn. Build. Repeat. 🚀"
+
+---
+
+⭐ Thank you for visiting my profile!
